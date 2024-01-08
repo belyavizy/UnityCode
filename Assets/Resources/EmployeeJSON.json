@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Antonio Banderas",
+    "level": 4,
+    "salary": 1200,
+    "productionSpeed": 2,
+    "productionQualityLevel": 2,
+    "productionIncrease": 2,
+    "resourceCashback": 4,
+    "specialization": "Alchemy",
+    "spritePath": "chemist.png"
+  },
+  {
+    "name": "Tom Cruise",
+    "level": 1,
+    "salary": 200,
+    "productionSpeed": 3,
+    "productionQualityLevel": 3,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Blacksmithing",
+    "spritePath": "blacksmith.png"
+  },
+  {
+    "name": "Brad Pitt",
+    "level": 3,
+    "salary": 600,
+    "productionSpeed": 4,
+    "productionQualityLevel": 4,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Joinery",
+    "spritePath": "BuildIcon.png"
+  },
+  {
+    "name": "Kirsten Dunst",
+    "level": 3,
+    "salary": 1000,
+    "productionSpeed": 2,
+    "productionQualityLevel": 2,
+    "productionIncrease": 2,
+    "resourceCashback": 4,
+    "specialization": "Alchemy",
+    "spritePath": "chemist.png"
+  },
+  {
+    "name": "Christian Slater",
+    "level": 1,
+    "salary": 200,
+    "productionSpeed": 3,
+    "productionQualityLevel": 3,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Blacksmithing",
+    "spritePath": "blacksmith.png"
+  },
+  {
+    "name": "Thandiwe Newton",
+    "level": 3,
+    "salary": 600,
+    "productionSpeed": 4,
+    "productionQualityLevel": 4,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Joinery",
+    "spritePath": "BuildIcon.png"
+  },
+  {
+    "name": "Domiziana Giordano",
+    "level": 5,
+    "salary": 100,
+    "productionSpeed": 2,
+    "productionQualityLevel": 2,
+    "productionIncrease": 2,
+    "resourceCashback": 4,
+    "specialization": "Alchemy",
+    "spritePath": "chemist.png"
+  },
+  {
+    "name": "Landon Liboiron",
+    "level": 1,
+    "salary": 200,
+    "productionSpeed": 3,
+    "productionQualityLevel": 3,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Blacksmithing",
+    "spritePath": "blacksmith.png"
+  },
+  {
+    "name": "Bill Skarsgard",
+    "level": 3,
+    "salary": 600,
+    "productionSpeed": 4,
+    "productionQualityLevel": 4,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Joinery",
+    "spritePath": "BuildIcon.png"
+  },
+  {
+    "name": "Domiziana Giordano",
+    "level": 1,
+    "salary": 500,
+    "productionSpeed": 2,
+    "productionQualityLevel": 2,
+    "productionIncrease": 2,
+    "resourceCashback": 4,
+    "specialization": "Alchemy",
+    "spritePath": "chemist.png"
+  },
+  {
+    "name": "Landon Liboiron",
+    "level": 1,
+    "salary": 200,
+    "productionSpeed": 3,
+    "productionQualityLevel": 3,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Blacksmithing",
+    "spritePath": "blacksmith.png"
+  },
+  {
+    "name": "Bill Skarsgard",
+    "level": 3,
+    "salary": 600,
+    "productionSpeed": 4,
+    "productionQualityLevel": 4,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Joinery",
+    "spritePath": "BuildIcon.png"
+  },
+  {
+    "name": "Domiziana Giordano",
+    "level": 2,
+    "salary": 900,
+    "productionSpeed": 2,
+    "productionQualityLevel": 2,
+    "productionIncrease": 2,
+    "resourceCashback": 4,
+    "specialization": "Alchemy",
+    "spritePath": "chemist.png"
+  },
+  {
+    "name": "Landon Liboiron",
+    "level": 1,
+    "salary": 200,
+    "productionSpeed": 3,
+    "productionQualityLevel": 3,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Blacksmithing",
+    "spritePath": "кря"
+  },
+  {
+    "name": "Bill Skarsgard",
+    "level": 3,
+    "salary": 600,
+    "productionSpeed": 4,
+    "productionQualityLevel": 4,
+    "productionIncrease": 2,
+    "resourceCashback": 2,
+    "specialization": "Joinery",
+    "spritePath": "кря"
+  }
+]
